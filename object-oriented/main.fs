@@ -1,4 +1,4 @@
-module oo
+module main
 
 type Person(Id : int, First : string, Last  : string) =
     member this.Id = Id
